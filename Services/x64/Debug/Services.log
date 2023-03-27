@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\project vs\Services\MyForm.h(626,6): error C2814: Services::MyForm::_SYSTEM_PROCESS_INFO: собственный тип не может быть вложенным в типе управляемый "Services::MyForm"
+D:\project vs\Services\MyForm.h(21): message : см. объявление "Services::MyForm"
+D:\project vs\Services\MyForm.h(653,14): warning C4477: "printf": в строке форматирования "%#x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "PVOID"
+D:\project vs\Services\MyForm.h(653,14): warning C4313: printf: конфликт "%x" в строке формата с аргументом 1 типа "PVOID"
+D:\project vs\Services\MyForm.h(666,15): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "HANDLE"
+D:\project vs\Services\MyForm.h(666,15): warning C4313: printf: конфликт "%d" в строке формата с аргументом 2 типа "HANDLE"

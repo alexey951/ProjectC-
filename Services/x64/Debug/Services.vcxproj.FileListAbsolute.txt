@@ -1,0 +1,5 @@
+D:\project vs\Services\x64\Debug\Services.vcxproj.AssemblyReference.cache
+D:\project vs\Services\x64\Debug\Services.vcxproj.SuggestedBindingRedirects.cache
+D:\project vs\Services\x64\Debug\Services.exe
+D:\project vs\Services\x64\Debug\Services.MyForm.resources
+D:\project vs\Services\x64\Debug\Services.vcxproj.GenerateResource.cache
